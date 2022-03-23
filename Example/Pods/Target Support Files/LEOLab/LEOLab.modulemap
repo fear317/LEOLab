@@ -1,0 +1,6 @@
+framework module LEOLab {
+  umbrella header "LEOLab-umbrella.h"
+
+  export *
+  module * { export * }
+}

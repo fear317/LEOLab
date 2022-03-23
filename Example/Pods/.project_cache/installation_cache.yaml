@@ -1,0 +1,31 @@
+BUILD_CONFIGURATIONS:
+  Debug: :debug
+  Release: :release
+CACHE_KEYS:
+  LEOLab:
+    BUILD_SETTINGS_CHECKSUM:
+      LEOLab:
+        :debug: b76065621491c141a2d91074d1549e54
+        :release: b76065621491c141a2d91074d1549e54
+    CHECKSUM: a9fd9cfc6a4e7bb79a97eb6bcfbd8c9df82e34f9
+    FILES:
+      - "../../LEOLab/Classes/ReplaceMe.m"
+      - "../../LICENSE"
+      - "../../README.md"
+    PROJECT_NAME: LEOLab
+    SPECS:
+      - LEOLab (0.1.0)
+  Pods-LEOLab_Example:
+    BUILD_SETTINGS_CHECKSUM:
+      Debug: 4bc1bdebf6322a094417f8a1727c3938
+      Release: 4bc1bdebf6322a094417f8a1727c3938
+  Pods-LEOLab_Tests:
+    BUILD_SETTINGS_CHECKSUM:
+      Debug: 37360b456581c553df54d9784386e92c
+      Release: 37360b456581c553df54d9784386e92c
+OBJECT_VERSION: 46
+PLUGINS:
+  cocoapods-binary:
+    {}
+  cocoapods-hmap-prebuilt:
+    {}

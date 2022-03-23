@@ -1,0 +1,6 @@
+framework module Pods_LEOLab_Tests {
+  umbrella header "Pods-LEOLab_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - LEOLab (0.1.0)
+
+DEPENDENCIES:
+  - LEOLab (from `../`)
+
+EXTERNAL SOURCES:
+  LEOLab:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LEOLab: a9fd9cfc6a4e7bb79a97eb6bcfbd8c9df82e34f9
+
+PODFILE CHECKSUM: 30a55b11d8bc7b3bc1f8f93d28bb105dcd6a57e5
+
+COCOAPODS: 1.10.1
